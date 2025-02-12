@@ -1,6 +1,6 @@
 import { motion } from 'motion/react'
 import * as variants from '@/motionVariats'
-import { featureData, processData } from '@/constants'
+import { processData } from '@/constants'
 import { processBanner } from '@/assets'
 
 
